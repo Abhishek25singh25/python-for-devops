@@ -1,31 +1,31 @@
 [
     {
         "name": "boysenberry-repo-1",
-        "stars": 411,
+        "stars": 410,
         "language": null,
         "url": "https://github.com/octocat/boysenberry-repo-1"
     },
     {
         "name": "git-consortium",
-        "stars": 529,
+        "stars": 531,
         "language": null,
         "url": "https://github.com/octocat/git-consortium"
     },
     {
         "name": "hello-worId",
-        "stars": 689,
+        "stars": 690,
         "language": null,
         "url": "https://github.com/octocat/hello-worId"
     },
     {
         "name": "Hello-World",
-        "stars": 3389,
+        "stars": 3406,
         "language": null,
         "url": "https://github.com/octocat/Hello-World"
     },
     {
         "name": "linguist",
-        "stars": 662,
+        "stars": 664,
         "language": "Ruby",
         "url": "https://github.com/octocat/linguist"
     }
